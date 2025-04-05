@@ -1,4 +1,3 @@
-Sure! Hapa kuna `README.md` iliyojumuisha maelezo ya `ci.yml` kwa Kiingereza, tayari kwa kutumiwa kwenye GitHub:
 
 ```markdown
 # ⚙️ Continuous Integration (CI) Workflow
